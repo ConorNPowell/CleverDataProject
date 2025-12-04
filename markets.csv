@@ -1,0 +1,51 @@
+market_id,census_name,common_name,population,days_on_market_median,price_new_list_median,price_closed_median,listings_on_market_count,listings_price_increase_count,listings_price_decrease_count,listings_closed_count
+new_york_ny,"New York-Newark-Jersey City, NY-NJ Metro Area","New York, NY",19756722,58,849000.00,785000.00,36156,362,7062,13542
+los_angeles_ca,"Los Angeles-Long Beach-Anaheim, CA Metro Area","Los Angeles, CA",13012469,55,979000.00,915000.00,18409,330,5260,6606
+chicago_il,"Chicago-Naperville-Elgin, IL-IN Metro Area","Chicago, IL",9359555,52,369900.00,360000.00,16751,160,6308,8251
+dallas_tx,"Dallas-Fort Worth-Arlington, TX Metro Area","Dallas, TX",7807555,64,425611.00,408386.00,29448,448,13318,6148
+houston_tx,"Houston-Pasadena-The Woodlands, TX Metro Area","Houston, TX",7274714,60,349000.00,329900.00,33947,1304,10622,5334
+washington_dc,"Washington-Arlington-Alexandria, DC-VA-MD-WV Metro Area","Washington, DC",6263796,45,585749.00,580748.00,14311,266,5198,5869
+philadelphia_pa,"Philadelphia-Camden-Wilmington, PA-NJ-DE-MD Metro Area","Philadelphia, PA",6241882,44,309900.00,280000.00,12052,266,4800,6519
+atlanta_ga,"Atlanta-Sandy Springs-Roswell, GA Metro Area","Atlanta, GA",6176937,60,414900.00,395000.00,28404,462,10778,6699
+miami_fl,"Miami-Fort Lauderdale-West Palm Beach, FL Metro Area","Miami, FL",6138876,92,590000.00,560000.00,47180,486,10914,7102
+phoenix_az,"Phoenix-Mesa-Chandler, AZ Metro Area","Phoenix, AZ",4941206,71,490000.00,465000.00,18828,492,9428,5217
+boston_ma,"Boston-Cambridge-Newton, MA-NH Metro Area","Boston, MA",4917661,24,776040.00,733673.00,7941,52,3156,4387
+san_francisco_ca,"San Francisco-Oakland-Fremont, CA Metro Area","San Francisco, CA",4653593,21,1450000.00,1482500.00,6265,126,1900,3069
+riverside_ca,"Riverside-San Bernardino-Ontario, CA Metro Area","Riverside, CA",4637725,61,596611.00,585960.00,12825,296,3886,3562
+detroit_mi,"Detroit-Warren-Dearborn, MI Metro Area","Detroit, MI",4367620,28,189046.00,205878.00,10811,156,4428,5892
+seattle_wa,"Seattle-Tacoma-Bellevue, WA Metro Area","Seattle, WA",4021467,21,843328.00,832871.00,9813,108,3986,3716
+minneapolis_mn,"Minneapolis-St. Paul-Bloomington, MN-WI Metro Area","Minneapolis, MN",3693351,33,396492.00,393674.00,8700,234,3716,4198
+san_diego_ca,"San Diego-Chula Vista-Carlsbad, CA Metro Area","San Diego, CA",3282782,38,899999.00,899450.00,5233,126,1898,2154
+tampa_fl,"Tampa-St. Petersburg-Clearwater, FL Metro Area","Tampa, FL",3240469,58,394278.00,369291.00,18623,228,7824,4206
+denver_co,"Denver-Aurora-Centennial, CO Metro Area","Denver, CO",2977085,44,596293.00,591083.00,12052,144,6062,3361
+baltimore_md,"Baltimore-Columbia-Towson, MD Metro Area","Baltimore, MD",2839409,37,393830.00,393506.00,6759,174,2784,3050
+st_louis_mo,"St. Louis, MO-IL Metro Area","St. Louis, MO",2809414,29,274900.00,285000.00,6344,54,2734,3483
+orlando_fl,"Orlando-Kissimmee-Sanford, FL Metro Area","Orlando, FL",2721022,60,421717.00,410349.00,13710,226,5044,2588
+charlotte_nc,"Charlotte-Concord-Gastonia, NC-SC Metro Area","Charlotte, NC",2712818,66,425302.00,412466.00,10190,226,5060,3050
+san_antonio_tx,"San Antonio-New Braunfels, TX Metro Area","San Antonio, TX",2612802,83,325189.00,307287.00,13452,520,5672,1754
+portland_or,"Portland-Vancouver-Hillsboro, OR-WA Metro Area","Portland, OR",2510529,37,579816.00,550874.00,8059,750,4278,2370
+pittsburgh_pa,"Pittsburgh, PA Metro Area","Pittsburgh, PA",2443921,55,265000.00,250000.00,5842,34,2636,2735
+sacramento_ca,"Sacramento-Roseville-Folsom, CA Metro Area","Sacramento, CA",2406563,31,596838.00,583913.00,5037,62,2008,2122
+austin_tx,"Austin-Round Rock-San Marcos, TX Metro Area","Austin, TX",2357497,88,471261.00,430657.00,11484,186,4628,1801
+las_vegas_nv,"Las Vegas-Henderson-North Las Vegas, NV Metro Area","Las Vegas, NV",2293764,63,461990.00,440000.00,10426,140,3968,2417
+cincinnati_oh,"Cincinnati, OH-KY-IN Metro Area","Cincinnati, OH",2255257,42,316433.00,304890.00,4347,34,2246,2552
+kansas_city_mo,"Kansas City, MO-KS Metro Area","Kansas City, MO",2202006,27,339000.00,349900.00,6602,150,2896,2542
+cleveland_oh,"Cleveland, OH Metro Area","Cleveland, OH",2171978,29,250006.00,243539.00,3928,36,1946,2292
+columbus_oh,"Columbus, OH Metro Area","Columbus, OH",2151847,48,348804.00,343374.00,4473,46,2888,2096
+indianapolis_in,"Indianapolis-Carmel-Greenwood, IN Metro Area","Indianapolis, IN",2106327,32,315642.00,311372.00,5910,74,3678,2497
+nashville_tn,"Nashville-Davidson--Murfreesboro--Franklin, TN Metro Area","Nashville, TN",2043713,68,500000.00,455000.00,10850,298,4074,2539
+san_jose_ca,"San Jose-Sunnyvale-Santa Clara, CA Metro Area","San Jose, CA",1969353,17,1573032.00,1632174.00,1698,66,562,1082
+virginia_beach_va,"Virginia Beach-Chesapeake-Norfolk, VA-NC Metro Area","Virginia Beach, VA",1782590,36,365000.00,368800.00,4933,84,1682,2312
+providence_ri,"Providence-Warwick, RI-MA Metro Area","Providence, RI",1673807,31,530424.00,524062.00,2365,6,802,1538
+jacksonville_fl,"Jacksonville, FL Metro Area","Jacksonville, FL",1645707,85,368992.00,365000.00,8828,256,3840,1999
+milwaukee_wi,"Milwaukee-Waukesha, WI Metro Area","Milwaukee, WI",1566361,42,334900.00,360000.00,3376,18,1064,1501
+raleigh_nc,"Raleigh-Cary, NC Metro Area","Raleigh, NC",1449594,48,462900.00,437500.00,5702,174,2720,1412
+oklahoma_city_ok,"Oklahoma City, OK Metro Area","Oklahoma City, OK",1445122,39,279900.00,268000.00,6198,104,2582,1628
+louisville_ky,"Louisville/Jefferson County, KY-IN Metro Area","Louisville, KY",1361847,44,299000.00,280000.00,3688,30,1792,1479
+memphis_tn,"Memphis, TN-MS-AR Metro Area","Memphis, TN",1341606,44,293000.00,300000.00,5002,56,2026,1505
+richmond_va,"Richmond, VA Metro Area","Richmond, VA",1327321,26,412545.00,395000.00,2959,94,1308,1336
+salt_lake_city_ut,"Salt Lake City-Murray, UT Metro Area","Salt Lake City, UT",1261337,48,559900.00,552000.00,3427,120,1786,1267
+birmingham_al,"Birmingham, AL Metro Area","Birmingham, AL",1181432,59,295000.00,305370.00,4434,84,1594,1473
+fresno_ca,"Fresno, CA Metro Area","Fresno, CA",1170942,45,440850.00,437000.00,2077,56,670,669
+buffalo_ny,"Buffalo-Cheektowaga, NY Metro Area","Buffalo, NY",1161385,12,249900.00,290000.00,1475,24,490,1026
+grand_rapids_mi,"Grand Rapids-Wyoming-Kentwood, MI Metro Area","Grand Rapids, MI",1154320,14,349900.00,355500.00,1905,8,1000,1342
